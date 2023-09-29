@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Capacitor (4.4.0):
+    - CapacitorCordova
+  - CapacitorCordova (4.4.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - "Capacitor (from `../node_modules/@capacitor/ios`)"
+  - "CapacitorCordova (from `../node_modules/@capacitor/ios`)"
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../node_modules/@capacitor/ios"
+  CapacitorCordova:
+    :path: "../node_modules/@capacitor/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Capacitor: 868367fcfeb3ba6bfabaefc63c072e6478bd046d
+  CapacitorCordova: 0c0b4edc7ce94fd560eadc3a6d36d5ee6453ada6
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: c1d237810a6637e3d33e96730f832d8dae7dd9fe
+
+COCOAPODS: 1.11.3
